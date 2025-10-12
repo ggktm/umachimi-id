@@ -2313,19 +2313,17 @@
         "50155": "One-time! Limited to SSR wisdom cards!"
     },
     "14": {
-        "1": "Gym Clothes",
-        "2": "Tracen Academy Uniform (Summer)",
-        "3": "Jersey (Summer)",
-        "4": "School Swimsuit",
-        "5": "Tracen Academy Uniform (Winter)",
+        "2": "Seragam Akademi ( Musim Panas )",
+        "3": "Jersey (Musim Panas)",
+        "5": "Seragam Akademi ( Winter )",
         "6": "Jersey (Winter)",
-        "7": "Backup Dancer Outfit",
-        "8": "NPC Racing Outfit 1",
-        "9": "Special Outfit 1",
+        "7": "Baju Dansa",
+        "8": "Baju Racing NPC-1",
+        "9": "Outfit Special 1",
         "11": "NPC Racing Outfit 2",
         "12": "NPC Racing Outfit 3",
-        "13": "School Uniform (Summer): Overweight",
-        "14": "School Uniform (Winter): Overweight",
+        "13": "Seragam Akademi (Summer): Obesitas",
+        "14": "Seragam Akademi (Winter): Obesitas",
         "15": "Spectator Outfit 1",
         "16": "Spectator Outfit 2",
         "17": "Spectator Outfit 3",
@@ -2337,7 +2335,7 @@
         "23": "Spectator Outfit (Rain - Female)",
         "24": "Spectator Outfit (Rain - Male)",
         "25": "Swimsuit Backup Dancer Outfit",
-        "26": "Winter Coat",
+        "26": "Jaket Musim Dingin",
         "27": "NPC Racing Outfit 4",
         "28": "NPC Racing Outfit 5",
         "29": "NPC Racing Outfit 6",
@@ -2346,7 +2344,9 @@
         "32": "Jinbei Backup Dancer Outfit",
         "101": "Starting Future",
         "104": "New Stars Rose [A]",
-        "105": "New Stars Rose [B]"
+        "105": "New Stars Rose [B]",
+        "1": "Baju Gym",
+        "4": "Baju Renang ( Akademi )"
     },
     "15": {
         "15": "Spectator Outfit 1",
@@ -15719,7 +15719,10 @@
         "249": "<color=#ff9900>Room Match</color> allows you to race against other trainers \\nwith your Hall of Fame Umamusume <color=#ff9900>Host</color>: Set your own \\nconditions for the race <color=#ff9900>Join</color>: Join another trainer's \\nrace. <color=#ff9900>Watch</color>: Enter an ID to watch the race.",
         "250": "The race held will be GI. There are two modes. <color=#ff9900>Simple Mode</color> \\nallows you to hold a race right away. <color=#ff9900>Detailed mode</color> allows you \\nto choose weather, participation conditions, etc. first. Up to \\n<color=#ff9900>3 Umamusume per person</color> can be entered.",
         "251": "Recruit participants for your races from the participation \\nlist. Trainers close to you can also be recruited using \\nthe <color=#ff9900>Circle and SNS Sharing functions</color>. For future reference, \\n<color=#ff9900>you can save your favorite races</color>. Have a go organizing \\na race with your friends!",
-        "252": "Save Umamusume in <color=#ff9900>My Entrants</color> to <color=#ff9900>select them easily</color> during \\nregistration! You can also save them from the results screen."
+        "252": "Save Umamusume in <color=#ff9900>My Entrants</color> to <color=#ff9900>select them easily</color> during \\nregistration! You can also save them from the results screen.",
+        "15": "ウマ娘たちと<color=#ff9900>メインストーリー</color>を進めましょう！\\nストーリーを進めると報酬を獲得できます。",
+        "28": "興行へウマ娘を送り出し\\n<color=#ff9900>全国のレース場を盛り上げよう！</color>",
+        "29": "<color=#ff9900>レース場と興行を選択し、育成ウマ娘を送り出す</color>ことで\\n興行を開始することができます。\\n<color=#ff9900>興行が完了すると、報酬を獲得</color>することができます。\\n報酬は興行ごとに内容が変わります。"
     },
     "64": {
         "6": "Reward from \"{0}\".",
@@ -28834,12 +28837,17 @@
         "11": "Atur Dan Tata Pulaumu Sendiri!"
     },
     "120": {
-        "1": "With an outrageous declaration, young academy chairwoman Akikawa establishes a new race named the <color=#FF6D26>URA Finals</color>! Trainers and Umamusume work hand in hand to become its maiden champion!",
-        "2": "Team up! A new experience awaits! …So began the sudden new team battle — <color=#FF6D26>Aoharu Hai</color>. But before the fun can start the academy faces a crisis!? Stand united and claim victory to save the freedoms of Tracen Academy!",
-        "3": "Why do Umamusume sing at lives? A producer suddenly appears to propose a new plan — the <color=#FF6D26>Grand Live</color>. Umamusume face their lives from a different perspective,and the answers they reach are—!",
-        "4": "A new race established by the media — <color=#FF6D26>Twinkle Star Climax</color>. A battle to determine the strongest! Run towards your own climax, chasing your dreams!",
-        "5": "A support AI carrying the names of the 3 goddesses is the newest development to confront trainers in their quest to support their Umamusume with all they have. Through the wisdom imparted this way, they now aim to reach new heights in the <color=#FF6D26>Grand Masters</color>.",
-        "6": "Prix de l'Arc de Triomphe, the peak of international racing. Those who seek their victory at the top of the world every year. <color=#FF6D26>Project L'Arc</color>, newly established at Tracen Academy. The curtain rises on a wistful journey of chasing dreams."
+        "1": "Dengan deklarasi yang menggemparkan, ketua akademi muda Akikawa membentuk perlombaan baru bernama <color=#FF6D26>Final URA</color>! Para pelatih dan Umamusume bekerja sama untuk menjadi juara pertamanya!",
+        "2": "Bergabunglah! Pengalaman baru menanti! …Begitulah dimulainya pertarungan tim baru yang tiba-tiba — <color=#FF6D26>Aoharu Hai</color>. Tapi sebelum keseruan dimulai, akademi menghadapi krisis!? Bersatu padu dan raih kemenangan untuk menyelamatkan kebebasan Akademi Tracen!",
+        "3": "Mengapa Umamusume bernyanyi di konser? Seorang produser tiba-tiba muncul dan mengusulkan rencana baru — <color=#FF6D26>Grand Live</color>. Umamusume menghadapi hidup mereka dari perspektif yang berbeda, dan jawaban yang mereka dapatkan adalah—!",
+        "4": "Perlombaan baru yang dibentuk oleh media — <color=#FF6D26>Twinkle Star Climax</color>. Pertarungan untuk menentukan yang terkuat! Berlari menuju klimaksmu sendiri, kejar impianmu!",
+        "5": "AI pendukung yang menyandang nama 3 dewi ini merupakan pengembangan terbaru yang akan menantang para pelatih dalam upaya mereka mendukung Umamusume mereka dengan sepenuh hati. Berkat kebijaksanaan yang diberikan, mereka kini bertekad untuk mencapai level baru di <color=#FF6D26>Grand Master</color>.",
+        "6": "Prix ​​de l'Arc de Triomphe, puncak balap internasional. Mereka yang mencari kemenangan di puncak dunia setiap tahun. <color=#FF6D26>Project L'Arc</color>, baru saja didirikan di Tracen Academy. Tirai terbuka untuk perjalanan penuh kerinduan mengejar mimpi.",
+        "7": "No.1 UAF Tournament jadillah umamusume terbaik dalam hal olahraga ! Oh iya , banyak latihan menarik dan fans yang menunggu peampilanmu",
+        "8": "Deklarasi pembukaan ladang oleh Ketua Akikawa menandai dimulainya era pertanian yang gemilang di Akademi Pusat Pelatihan. Di bawah terik matahari, semua orang memegang cangkul, dan di penghujung hari, mereka berkumpul di meja makan. Jadi, mari kita pergi ke ladang lagi hari ini!",
+        "9": "Seorang Gadis Mechauma muncul di Akademi Tresen. Robot ini diciptakan oleh Dr. Sugarlights yang jenius. Robot ini masih model awal dan masih banyak masalah yang harus diatasi... tapi mari kita perkuat dan wujudkan impian sang dokter!",
+        "10": "Saat Seri Twinkle terancam, Uma Musume yang \"legendaris\" bangkit! Semua pihak yang terlibat dalam dunia balap akan bersatu untuk mempopulerkan Seri Twinkle kembali - dan di masa depan!",
+        "11": "Sebuah proyek pulau terpencil tiba-tiba dimulai. \\nKejar impian Tucker Brine,\\nikuti instingmu! Berkobarlah, Uma Musume! \\nBangun fasilitas latihan terbaik untuk melatih pikiran dan tubuhmu hingga batas terliar!"
     },
     "121": {
         "1": "Debut",

@@ -3,7 +3,7 @@
     "text_block_list": [
         {
             "name": "Komentator",
-            "text": "Menuju gadis kuda Triple Crown, Mihono Bourbon muncul di sini\ndi trek Keito!"
+            "text": "Menuju UmamusumeTriple Crown, Mihono Bourbon muncul di sini\ndi trek Keito!"
         },
         {
             "name": "Cheers",
@@ -11,14 +11,14 @@
         },
         {
             "name": "Spectator A",
-            "text": "Mihono Bourbon! tunjukkan momen lahirnya gadis kuda Triple Crown!"
+            "text": "Mihono Bourbon! tunjukkan momen lahirnya Umamusume Triple Crown!"
         },
         {
             "name": "Spectator B",
             "text": "Aku percaya pada kemenanganmu!"
         },
         {
-            "text": "Kikkashou. Hari pertemuan antara Rice Shower dan Mihono Bourbon akhirnya tiba."
+            "text": "Kikkashou. Hari pertemuan antara\nRice Shower dan Mihono Bourbon akhirnya tiba."
         },
         {
             "name": "Rice Shower",
@@ -53,7 +53,8 @@
             "text": "Hei, Trainer, apa yang kamu bilang ke Rice?"
         },
         {
-            "text": "Ikuti Bourbon dan lewati dia."
+            "text": "Ikuti Bourbon dan lewati dia.",
+            "name": "<username>"
         },
         {
             "name": "Gold Ship",
@@ -65,14 +66,14 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Tapi, daripada Bourbon sendiri, aku khawatir soal reaksi penonton, kalau Rice menang mereka mungkin――"
+            "text": "Tapi, daripada Bourbon sendiri, aku\nkhawatir soal reaksi penonton, kalau Rice menang mereka mungkin――"
         },
         {
             "name": "Cheers",
             "text": "(Bersorak!!)"
         },
         {
-            "text": "Seolah menutupi kata-kata Mejiro McQueen, sorakan sebelum start menggema di lapangan lomba."
+            "text": "Seolah menutupi kata-kata Mejiro McQueen, sorakan\nsebelum start menggema di lapangan lomba."
         },
         {
             "name": "Komentator",

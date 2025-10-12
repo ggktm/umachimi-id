@@ -50,7 +50,7 @@
             "name": "Gold Ship"
         },
         {
-            "text": "Tunggu! Itu pintu masuk karyawan, bego!",
+            "text": "Tunggu! Itu pintu masuk karyawan !!",
             "name": "Mejiro McQueen"
         },
         {
@@ -80,173 +80,177 @@
             "name": "Rice Shower"
         },
         {
-            "text": "Aduh, bersalah banget rasanya!\nTapi tentu saja aku nggak bisa nolak kalau itu bikin dia bahagia."
+            "text": "Aduh, bersalah banget rasanya!\nTapi tentu saja aku nggak bisa nolak kalau itu bikin dia bahagia.",
+            "choice_data_list": [
+                "Ayo Deh !"
+            ]
         },
         {
             "text": "Ehehe… Hore.",
             "name": "Rice Shower"
         },
         {
-            "text": ""
+            "text": "Pemandangan di bianglala di sore hari dengan matahari terbenam , terasa seperti ...."
         },
         {
-            "text": "",
+            "text": ".........",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "...Tetapi Rice Shower terus gelisah sejak mereka naik bianglala.",
             "choice_data_list": [
-                ""
+                "Kenapa Rice ?"
             ]
         },
         {
-            "text": "",
+            "text": "A-ahhh Gapapa Kok , Beneran.....",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Terimakasih Ya Trainner , aku tidak menyangka\nkamu bisa buat aku lari sebaik ini",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Sampai \" aku ga percaya Juara Kedua Di Derby",
             "name": "Rice Shower",
             "choice_data_list": [
-                "",
-                ""
+                "Ini Hasil Kerjamu , Rice ...",
+                "Ini Hasil Kerjamu , Rice ..."
             ]
         },
         {
-            "text": "",
+            "text": "Hehe....",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "...Begitulah, pikir Rice.\nAku senang dengan posisi kedua, tapi \nbagaimana kalau aku bisa meraih posisi pertama...",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Itulah sebabnya...Rice ingin mengalahkan Mihono Bourbon.",
             "name": "Rice Shower"
+        },
+        {
+            "text": "Aku Ingin Menang ---"
         },
         {
             "text": ""
         },
         {
-            "text": ""
-        },
-        {
             "text": "",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Keinginan untuk menang yang selalu ada dalam hatinya\nsemakin kuat setiap harinya saat ia semakin dekat\ndengan Uma Musume yang tak terkalahkan.",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Itu pasti dapat percaya diri.\nLain kali, Kita pasti  bisa posisi pertama dan mengalahkan Mihono",
             "name": "<username>"
         },
         {
-            "text": "",
+            "text": "Itu pasti dapat percaya diri.\nLain kali, Kita pasti  bisa posisi pertama dan mengalahkan Mihono",
             "name": "<username>"
         },
         {
-            "text": "",
+            "text": "Cuma Kita Berdua....\nKuharap Golshi san bisa membantuku kedepannya...",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Wah !, bakalan seru nii !!! . Apa kamu bersenang-senang Rice ?!",
             "name": "Gold Ship"
         },
         {
-            "text": "",
+            "text": "Ya, itu seperti utopia nyata yang banyak makanan manis ♪",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Terimakasih Trainner-san ! , Rice akan Berusaha!",
             "name": "Rice Shower",
             "choice_data_list": [
-                "",
-                ""
+                "Aku akan dukung kamu , Rice !",
+                "Aku akan dukung kamu , Rice !"
             ]
         },
         {
-            "text": "",
+            "text": "Dilihat dari wajah Rice,\nsepertinya hadiah ini adalah pilihan yang tepat.",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "",
+            "text": "...Tapi lain kali, aku akan meminta imbalan yang bagus, oke?",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "",
+            "text": "I-Iya ... ( *iya aja deh buat McQueen takutnya ngambek)",
             "name": "<username>"
         },
         {
-            "text": ""
+            "text": "Keesokan harinya, dengan tekad baru, Rice Shower mulai berlatih."
         },
         {
-            "text": "",
+            "text": "huh .... huh ... huh \n(* berlari )",
             "name": "Mejiro McQueen"
         },
         {
-            "text": "",
+            "text": "Ikuti ..  ikuti .......",
             "name": "Rice Shower"
         },
         {
-            "text": "",
+            "text": "Wah, lengket banget!",
             "name": "Gold Ship"
         },
         {
-            "text": "",
+            "text": "Bahkan saat McQueen meningkatkan\n kecepatannya, ia tetap mampu mengimbangi.",
             "name": "Horsegirl with Straight-cut Bangs"
         },
         {
-            "text": "",
+            "name": "<username>",
+            "text": "Saat belajar ataupun Berlari , Rice Aslinya benar benar Terampil"
+        },
+        {
+            "text": "Saat belajar ataupun Berlari , Rice Aslinya benar benar Terampil",
             "name": "<username>"
         },
         {
-            "text": "",
+            "text": "Hal ini terlihat dari cara rice berlari ...",
             "name": "<username>"
         },
         {
-            "text": "",
+            "text": "Hal ini terlihat dari cara rice berlari ...",
             "name": "<username>"
         },
         {
-            "text": "",
-            "name": "<username>"
-        },
-        {
-            "text": "",
+            "text": "Menurutmu Targetnya McQueen atau Mihono Burubon ? ",
             "name": "Gold Ship"
         },
         {
-            "text": "",
+            "text": "Ya Rice Punya Tekad kuat buat apapun yang dia mau ",
             "name": "<username>"
         },
         {
-            "text": "",
+            "text": "Ya Rice Punya Tekad kuat buat apapun yang dia mau ",
             "name": "<username>"
         },
         {
-            "text": "",
-            "name": "Gold Ship"
+            "name": "Gold Ship",
+            "text": "Ouuuuh , Begitu Ya...."
         },
         {
-            "text": ""
+            "text": "Kalau dia performanya bagus kaya begini ,\nku yakin dia bisa mengalahkan mihono di pertandingan besok",
+            "name": "<username>"
         },
         {
-            "text": ""
+            "text": "Lebih jauh lagi, ini akan menjadi latihan yang bagus untuk Mejiro McQueen,\nyang sedang mempersiapkan diri untuk Takarazuka Kinen."
         },
         {
-            "text": ""
+            "text": "Dengan Rice Shower sebagai titik awal, moral tim sedang meningkat.\nTepat ketika saya memikirkan itu--"
         },
         {
-            "text": "",
+            "text": "McQueen-San!!!",
             "name": "Rice Shower"
         },
         {
-            "text": ""
+            "text": "Teriakan Rice Bergema saat Training ....."
         }
     ],
     "title": "Kalahin My Rival ! McQueen"

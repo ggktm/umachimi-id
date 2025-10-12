@@ -66,7 +66,7 @@
             "text": "Seberapapun keras aku latihan...\nAku nggak bisa..."
         },
         {
-            "text": "Dia bikin aku teringat banget sama McQueen saat dia berjuang keras untuk Tenno Sho."
+            "text": "Dia bikin aku teringat banget sama McQueen \nsaat dia berjuang keras untuk Tenno Sho."
         },
         {
             "text": "Apa kamu baik-baik aja?",
@@ -135,7 +135,10 @@
         },
         {
             "text": "Y-Ya! Aku bakal coba!",
-            "name": "Rice Shower"
+            "name": "Rice Shower",
+            "choice_data_list": [
+                "Aku Juga Ingin kamu menang!"
+            ]
         },
         {
             "text": "Ini jadi awal latihan all-out dia.\nMari kita taklukkan Derby!"
@@ -157,7 +160,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Kalau mau kalahin dia, kamu harus terus ikutin aku dan tetap di dekatku sepanjang lomba.",
+            "text": "Kalau mau kalahin dia, kamu harus terus ikutin\naku dan tetap di dekatku sepanjang lomba.",
             "name": "Mejiro McQueen"
         },
         {
@@ -204,7 +207,10 @@
         },
         {
             "text": "Ikut… Ikut…",
-            "name": "Rice Shower"
+            "name": "Rice Shower",
+            "choice_data_list": [
+                "Semangat --- Derby !"
+            ]
         },
         {
             "text": ".........",
@@ -243,7 +249,7 @@
             "name": "Mejiro McQueen"
         },
         {
-            "text": "Beberapa hari kemudian — Hari acara besar Twinkle Series, Nippon Derby, akhirnya tiba."
+            "text": "Beberapa hari kemudian — \nHari acara besar Twinkle Series, Nippon Derby, akhirnya tiba."
         },
         {
             "name": "Mejiro McQueen",
@@ -251,7 +257,7 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Hari ini… kamu mau tidur bareng lagi?\nJujur aja, aku nggak paham kenapa harus ngikutin aku sampai ke urusan pribadi juga…"
+            "text": "Hari ini… kamu mau tidur bareng lagi?\nJujur aja, aku nggak paham kenapa\nharus ngikutin aku sampai ke urusan pribadi juga…"
         },
         {
             "name": "Rice Shower",

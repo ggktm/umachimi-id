@@ -60,12 +60,12 @@
         },
         {
             "name": "Mejiro McQueen",
-            "text": "Sekarang Rice-san punya kekuatan untuk menarik tim dengan cara mengejutkan."
+            "text": "Sekarang Rice-san punya kekuatan\nuntuk menarik tim dengan cara mengejutkan."
         },
         {
             "text": "Seperti kata McQueen, aku merasa usaha yang Rice Shower lakukan\nmemiliki efek kecil tapi terasa bagi semua di sekitar kita.",
             "choice_data_list": [
-                "Sekarang kamu bisa fokus ke perawatan tanpa khawatir tentang dia."
+                "Sekarang Fokus saja sama pemulihanmu"
             ]
         },
         {
@@ -178,7 +178,7 @@
             "text": "Hari itu, Rice Shower yang bilang “Aku mau menang” di bianglala."
         },
         {
-            "text": "Lomba untuk membuktikan seberapa lurus dan kuat perasaannya akhirnya dimulai!"
+            "text": "Lomba untuk membuktikan seberapa lurus \ndan kuat perasaannya akhirnya dimulai!"
         }
     ],
     "title": "Semangat Full ! Pasti Menang !",
