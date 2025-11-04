@@ -43211,16 +43211,16 @@
         "44": "Bond gauge of all support cards and all allies <color=#FF6D26>+{0}</color>\\\\nFriend and group types excluded."
     },
     "397": {
-        "1": "<size=36>Onsen Yukoma</size>",
-        "2": "<size=36>Onsen Kecepatan</size>",
-        "3": "<size=36>Onsen Ketabahan</size>",
-        "4": "<size=36>Onsen Kecerdasan</size>",
-        "5": "<size=36>Onsen Kuno Kecepatan</size>",
-        "6": "<size=36>Onsen Kuno Kekuatan</size>",
-        "7": "<size=36>Onsen Kuno Kesehatan</size>",
-        "8": "<size=36>Onsen Sayap Langit</size>",
-        "9": "<size=36>Onsen Rahasia Yukoma</size>",
-        "10": "<size=36>Onsen Legendaris</size>"
+        "1": "<size=30>Onsen Yukoma</size>",
+        "2": "<size=30>Onsen Kecepatan</size>",
+        "3": "<size=30>Onsen Ketabahan</size>",
+        "4": "<size=30>Onsen Kecerdasan</size>",
+        "5": "<size=30>Onsen Kuno Kecepatan</size>",
+        "6": "<size=30>Onsen Kuno Kekuatan</size>",
+        "7": "<size=30>Onsen Kuno Kesehatan</size>",
+        "8": "<size=30>Onsen Sayap Langit</size>",
+        "9": "<size=30>Onsen Rahasia Yukoma</size>",
+        "10": "<size=30>Onsen Legendaris</size>"
     },
     "416": {
         "1": "Jalan-Jalan"
