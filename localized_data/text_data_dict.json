@@ -5548,7 +5548,7 @@
     "1153": "Drawer Dance (2025 ver.)",
     "1154": "Tucker's Skill Up Island",
     "1155": "Gifted!",
-    "1156": "Gelombang-Gelombang♡Cinta!",
+    "1156": "Manny Shuuki Rush!",
     "1160": "I'll make you chirp!",
     "1164": "Love dance, eat.",
     "1166": "Dream Gale!",
@@ -13619,7 +13619,12 @@
   },
   "237": {
     "3": "Grand Live",
-    "5": "Grand Masters"
+    "5": "Grand Masters",
+        "1": "URA Finals",
+        "2": "Unity Cup",
+        "10": "Twinkle Legends",
+        "11": "Bangun Pulaumu Sendiri!",
+        "7": "U.A.F Sports"
   },
   "238": {
     "10001": "Training fail 0%",
@@ -20168,7 +20173,8 @@
     "931203": "Prix de l'Arc",
     "931204": "Prix de l'Arc",
     "931205": "Prix de l'Arc",
-    "999901": "URA Finals Final"
+    "999901": "URA Finals Final",
+        "103301": "Mile CS"
   },
   "290": {
     "10010101": "Reach ≥600 Stamina",
