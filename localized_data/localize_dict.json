@@ -4667,5 +4667,20 @@
     "SingleModeScenarioOnsen194022": "Jadwal Musim Pemandian",
     "SingleModeScenarioOnsen194023": "Target Tercapai",
     "SingleModeScenarioOnsen194063": "Ekstra POW Spring Hot.",
-    "SingleModeScenarioOnsen194074": "Pemulihan Super Ga aktif"
+    "SingleModeScenarioOnsen194074": "Pemulihan Super Ga aktif",
+    "SingleModeScenarioOnsen194003": "Rank Hot Spring telah menjadi <color=#FF6D26>{0}</color>",
+    "SingleModeScenarioOnsen194004": "Klaim <color=#FF6D26>{0} tiket mandi</color>",
+    "SingleModeScenarioOnsen194005": "Tiket Mandi <color=#FF6D26>akan hilang</color>",
+    "SingleModeScenarioOnsen194006": "{0} sudah <color=#FF6D26>ditambahkan</color>",
+    "SingleModeScenarioOnsen194007": "Umamusume telah <color=#FF6D26>Join Hot Spring!</color>",
+    "SingleModeScenarioOnsen194008": "Pemulihan super<color=#FF6D26>Bisa Aktif</color>",
+    "SingleModeScenarioOnsen194009": "Penginapan Yukoma Jadi <color=#FF6D26>{0}!</color>",
+    "SingleModeScenarioOnsen194010": "Konfirmasi Pilih Mata Air",
+    "SingleModeScenarioOnsen194011": "Mata Air yang digali bisa dapat<color=#ff911c>{0}</color> lebih banyak.",
+    "SingleModeScenarioOnsen194012": "Tidak Bisa Diubah Saat Musim Berikutnya!",
+    "SingleModeScenarioOnsen194013": "Saat ini Mata air tidak tersedia",
+    "SingleModeScenarioOnsen194014": "Stat Diperoleh",
+    "SingleModeScenarioOnsen194018": "{0} tempat &\n{1}\nDiperoleh",
+    "SingleModeScenarioOnsen585009": "Ga Dapet",
+    "SingleModeScenarioOnsen585011": "Mata Air Fav."
 }
