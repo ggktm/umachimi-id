@@ -2751,7 +2751,7 @@
   "SingleMode0224": "Tujuan Tercapai",
   "SingleMode0225": "Setelah {0} Turn",
   "SingleMode0226": "Jadwal",
-  "SingleMode0227": "$(Scale 80)Dipilih",
+  "SingleMode0227": "$(scale 80)Dipilih",
   "SingleMode0228": "Skill diambil",
   "SingleMode0229": "Skill sudah diambil",
   "SingleMode0230": "Kamu punya skill yang diambil.\nyakin reset dan kembali?",
