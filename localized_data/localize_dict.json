@@ -615,11 +615,6 @@
   "CollectEvent508019": "Saya menerima hadiah yang belum diklaim dari misi event",
   "CollectEvent508020": "{0} terkumpul\n\"{1}\" tercapai!",
   "CollectEvent508021": "Hadiah bisa diterima",
-  "CollectEvent626001": "All in {0}{1}{2}{3}",
-<<<<<<< HEAD
-=======
-  "CollectEvent626002": "{0}/{1} {2}:{3:D2}以降になる",
->>>>>>> d2f98602779ad27a1caa7620a0c79cc4457d3e07
   "CollectEvent626003": "{0}Rilis",
   "CollectEvent626004": "{0} sekarang tersedia untuk dirilis",
   "CollectEvent626006": "Konfirmasi pemutaran",
