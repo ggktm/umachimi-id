@@ -31,7 +31,7 @@ Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem,
 
 ## 📂 Struktur Direktori
 ```
-📁 localize_data
+📁 localized_data
  ┣ 📂 assets                                # Aset ikon, texture dll
  ┣ 📄 includes_android                      # Aset khusus android
  ┣ 📄 includes_win                          # Aset khusus windows
