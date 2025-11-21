@@ -31,12 +31,17 @@ Kami ingin mempermudah player & komunitas lokal untuk memahami gameplay, sistem,
 
 ## 📂 Struktur Direktori
 ```
-📁 root
- ┣ 📂 assets        # File grafis, ikon, dll
- ┣ 📂 localize_data # Main Project
- ┣ 📂 docs          # Dokumentasi tambahan
- ┣ 📜 README.md     # File index ini
- ┣ 📜 file.json     # File JSON Translate
+📁 localized_data
+ ┣ 📂 assets                                # Aset ikon, texture dll
+ ┣ 📄 includes_android                      # Aset khusus android
+ ┣ 📄 includes_win                          # Aset khusus windows
+ ┣ 📜 character_system_text_dict.json       # Berkas interaksi karakter
+ ┣ 📜 config.json                           # Berkas konfigurasi
+ ┣ 📜 hashed_dict.json                      # Berkas dictionary aset dalam hash
+ ┣ 📜 localize_dict.json                    # Berkas dictionary lokalisasi
+ ┣ 📜 race_jikkyo_comment_dict.json         # Berkas dictionary komentator lomba
+ ┣ 📜 race_jikkyo_message_dict.json         # Berkas dictionary teks komentator lomba
+ ┣ 📜 text_data_dict.json                   # Berkas dictionary teks komentator lomba
 ```
 
 ---
@@ -52,17 +57,14 @@ Kami terbuka untuk kontribusi! 🙌
 Kamu bisa bantu lewat:
 - Koreksi terjemahan 📝  
 - Tambah dokumentasi 📚  
-- Masukkin Bahasa Daerah 🎨  
+- Memasukkan bahasa daerah 🎨  
 
 Baca panduan di [CONTRIBUTING.md](./CONTRIBUTING.md)  
 
----
 
-## Contributor Utama ❤
+---
+## Kontributor Utama
+
 @Xmatography
 @Vin..Tar
 @MisuMasu
-
-## 📜 Lisensi
-Repo ini menggunakan lisensi **MIT** 📄  
-Silakan gunakan dan modifikasi sesuai kebutuhan.  
