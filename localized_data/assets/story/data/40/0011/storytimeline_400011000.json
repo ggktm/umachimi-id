@@ -206,6 +206,226 @@
             "color_text_info_list": [
                 "\" titik konstruksi \""
             ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Tazuna akan menjelaskan detail tentang Development Points nanti. Jangan terburu-buru!",
+            "choice_data_list": [
+                "Mengerti!"
+            ],
+            "color_text_info_list": [
+                "Siap!"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Dan sekarang untuk bagian terpenting!\nProyek ini akan mengadakan rapat evaluasi\nsetiap enam bulan!",
+            "color_text_info_list": [
+                "rapat evaluasi"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Peringkat ini akan menentukan jumlah dukungan yang kamu terima!\nJadi,Anda sebaiknya membuat rencana konstruksi dan melanjutkannya kapan saja!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Setiap proses kerja, jadwal, dll.!\nHal terpenting di antara semuanya adalah-"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Apa yang harus dibangun!?"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Apa yang harus kita bangun agar Uma Musume semakin kuat? Apa yang akan menjadi jembatan menuju impian mereka?"
+        },
+        {
+            "text": "Aku ingin dengar pendapatmu,Trainer!\nPara Uma, aku juga ingin dengar pendapat kalian! Aku Berterimakasih untuk usaha kalian selama ini!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "...Betapa beruntungnya!!!",
+            "choice_data_list": [
+                "(...?) O-oke, saya mengerti!"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Sekarang -- akhirnya!\nBatas waktu untuk proyek ini sekitar tiga tahun!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Jika proyek ini tidak berhasil,\nfasilitasnya akan dihancurkan! Kami tidak punya uang untuk melanjutkan pengoperasian sesuatu yang belum selesai!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Tapi aku mempertaruhkan nyawaku untuk proyek ini! Aku tidak akan membiarkannya dihancurkan!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Untuk mencapai ini, kerja sama kalian sangat penting! Ayo, kepalkan tangan kalian! Angkat tangan kalian! Jiwa kalian...!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Bakar saja!!",
+            "choice_data_list": [
+                "Baiklah, bakar saja!"
+            ]
+        },
+        {
+            "name": "Ines Fuujin",
+            "text": "A-Aku harus bersemangat dan berpartisipasi, Ryan!"
+        },
+        {
+            "text": "Pokoknya, briefingnya berakhir seperti ini. Setelah itu, kami memutuskan untuk menjelajahi pulau sampai waktunya pulang!"
+        },
+        {
+            "text": "(Bip... bip... cicit...\nMenangis, menderu... menggerutu...)"
+        },
+        {
+            "text": "Mungkin aku sudah terlalu jauh?\nPulau ini sangat besar...!",
+            "name": "Sakura Chiyono O"
+        },
+        {
+            "text": "(Grrr...!!)"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Oh tidak!"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Semuanya.............\n, di mana semuanya?! \nDi mana aku?!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Wah!!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Jamurna gede pisan!! Warna-warni oge! Woi,  aya nu liat?!"
+        },
+        {
+            "name": "Innes Fuujin",
+            "text": "Hahaha, cepat sekali! Seperti yang diharapkan dari Ostrich-san!"
+        },
+        {
+            "name": "Mejiro Ryan",
+            "text": "Wah, hebat sekali!\n...Oke, aku tidak akan kalah!"
+        },
+        {
+            "name": "Gold City",
+            "text": "...Huh. Ines senpai----\n dan Ryan senior---- \nberlari ke arahku."
+        },
+        {
+            "name": "Tamamo dan Chiyo",
+            "text": "Shi-chi liat! Jamurnya gede pisan!\nAh, itu dia, Shi-chi! Syukurlah!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Hah!? Chiyo dan Tamamo-senpai juga!?",
+            "color_text_info_list": [
+                "Chiyo",
+                "Tamamo-senpai"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "A-a-a-a-a-kamu bercanda...?!\nKenapa...!"
+        },
+        {
+            "text": "(Percikan!)"
+        },
+        {
+            "name": "Ines Fuujin",
+            "text": "Maaf banget, Shichi-chan! Kakiku nggak bisa berhenti!"
+        },
+        {
+            "name": "Tamamo Cross",
+            "text": "Sori! Syukur aing bisa ngehindarin tepat waktu-- Ah!? Jamurnya abis kabeh!?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Haa...haa...haa...!\nOh, ayolah――!"
+        },
+        {
+            "name": "Gold City",
+            "text": "Aku terkejut...! Ahahaha!"
+        },
+        {
+            "text": "Hutan lebat dan air sebening kristal.\nDesir pepohonan dan teriakan hewan.\nHutan belantara yang sepenuhnya tak tersentuh tangan manusia.",
+            "name": "Monolog"
+        },
+        {
+            "text": "<chrname> tampaknya dapat sedikit bersantai di lingkungan yang benar-benar berbeda ini.",
+            "choice_data_list": [
+                "(Gitu aja sebenarnya cukup -w-)"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Hai, <username> !\nAku sudah mendengar tentang kerja kerasmu dari ketua! aku mengandalkanmu!\nMohon bantuannya!",
+            "choice_data_list": [
+                "Tucker, selamat datang di sini!"
+            ]
+        },
+        {
+            "text": "Ngomong-ngomong, fasilitas seperti apa yang sebenarnya ingin dia bangun?\nKetika saya menanyakan pertanyaan itu...",
+            "name": "Trainner "
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Misalnya,\n\"lari bareng hewan liar\" dan \"Labirin raksasa\"!",
+            "choice_data_list": [
+                "Hah ga ngerti gw ?!"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Akademi Tracen adalah fasilitas terbaik!\nItulah kenapa tempat ini harus menjadi tempat yang bagus dengan cara yang benar-benar baru!",
+            "color_text_info_list": [
+                "Akademi Tracen"
+            ]
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Beban latihan yang tidak terkendali dalam lingkungan yang lebih menantang!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Atau... Gunakan Otot dan tenaga untuk berpikir lebih jernih lagi . ini baru latihan paling fungsional!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Lebih lanjut, untuk memanfaatkan sepenuhnya dari kondisi pikiran dan tubuh yang rileks, lihat halaman 9 untuk detailnya."
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Jika kamu melihat dengan matamu ....."
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Yeeeeehon!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Jadi! Dengan kata lain!\nItu artinya aku punya mimpi besar!!",
+            "choice_data_list": [
+                "........ Jadi Begituuuu!"
+            ]
+        },
+        {
+            "text": "Pokoknya semua materi pelatihan di buklet yang diberikannya menarik sekali."
+        },
+        {
+            "text": "Pengembangannya sendiri melibatkan perakitan dan pengangkutan kayu dan batu,\ndan tampaknya membutuhkan penggunaan fisik yang kuat."
+        },
+        {
+            "text": "Yang terpenting, <chrname>\ntampaknya juga menyukai pulau itu.\nBerpartisipasi di dalamnya sendiri mungkin merupakan cara yang baik untuk bersantai."
+        },
+        {
+            "text": "Jadi, aku akan terus berpartisipasi dalam Proyek Pulau Terpencil bersama <chrname>!"
         }
     ]
 }
