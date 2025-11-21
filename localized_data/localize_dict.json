@@ -616,7 +616,10 @@
   "CollectEvent508020": "{0} terkumpul\n\"{1}\" tercapai!",
   "CollectEvent508021": "Hadiah bisa diterima",
   "CollectEvent626001": "All in {0}{1}{2}{3}",
+<<<<<<< HEAD
+=======
   "CollectEvent626002": "{0}/{1} {2}:{3:D2}以降になる",
+>>>>>>> d2f98602779ad27a1caa7620a0c79cc4457d3e07
   "CollectEvent626003": "{0}Rilis",
   "CollectEvent626004": "{0} sekarang tersedia untuk dirilis",
   "CollectEvent626006": "Konfirmasi pemutaran",
@@ -1142,7 +1145,6 @@
   "Heroes408026": "Skor Liga",
   "Heroes408027": "Skor diterima",
   "Heroes408028": "Info Skor Liga",
-  "Heroes408035": "​",
   "Heroes511002": "Hero Skills",
   "Heroes511003": "$(nb)Rincian Hero Gauge",
   "Heroes511005": "$(nb)$(scale 92)Gratis Sampai {0}",
@@ -4867,5 +4869,8 @@
     "Shop0071": "Tampilan ini dapat diubah melalui pengaturan「Peringatan Pembelian」",
     "Steam608002": "Tunggu pembaruan selanjutnya",
     "Home0001": "Diklaim",
-    "Heroes408034": "Sisa "
+    "Heroes408034": "Sisa ",
+    "Heroes408035": "Kali",
+    "Heroes408025": "Kamera Sett.",
+    "CollectEvent626002": "{0}/{1} {2}:{3:D2}"
 }
