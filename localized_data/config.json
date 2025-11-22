@@ -28,12 +28,12 @@
 
     "remove_ruby": true,
     "character_note_top_gallery_button": {
-        "text": "Career Event\n     Gallery",
+        "text": "     Galeri\n  Event Karir",
         "font_size": 38,
         "line_spacing": 0.6
     },
     "character_note_top_talk_gallery_button": {
-        "text": "     Chat\n   Gallery",
+        "text": "     Galeri\n   Chat",
         "font_size": 44,
         "line_spacing": 0.55
     },
