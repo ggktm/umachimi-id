@@ -2872,7 +2872,7 @@
   "SingleMode0376": "Silakan pilih dua karakter",
   "SingleMode0377": "Tidak tercapai...",
   "SingleMode0378": "Cobalah untuk merevisi formasi dan warisanmu agar sesuai dengan bakat karakter-mu.\nMeningkatkan level kartu pendukungmu juga efektif.",
-  "SingleMode0379": "<atlas=Sprite tunggal=utx_ico_trophy_single_00/><color=#{1}>{0} kali</color>",
+  "SingleMode0379": "Setelah<atlas=Single sprite=utx_ico_trophy_single_00/><color=#{1}>{0} kali</color>",
   "SingleMode0381": "Klinik Tidak Tersedia karena liburan musim panas",
   "SingleMode0382": "UKS Tidak Tersedia",
   "SingleMode0383": "Pengaturan Lewati",
