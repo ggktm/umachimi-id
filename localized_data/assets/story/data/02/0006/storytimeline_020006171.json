@@ -10,44 +10,6 @@
       "name": "<username>"
     },
     {
-      "text": "Kalau kamu masih mau coba lagi, ada caranya.  
-Atau kita mundur aja dari [Prix de l'Arc de Triomphe]……",
-      "name": "<username>"
-    },
-    {
-      "text": "Kondisiku sebenernya oke, latihannya juga lancar,  
-aku udah kasih semua tenagaku buat lari.",
-      "name": "Special Week"
-    },
-    {
-      "text": "……tapi tetep aja dia bisa nyalip aku, terus makin jauh ninggalin,  
-aku nggak bisa ngejar Grass-chan.",
-      "name": "Special Week"
-    },
-    {
-      "text": "……Dengan keadaanku sekarang, sekalipun ikut 『Prix de l'Arc de Triomphe』,  
-pasti nggak mungkin aku bisa menang……",
-      "name": "Special Week"
-    },
-    {
-      "text": "Mimpinya buat jadi \"Uma Musume nomor satu di Jepang\" kayak makin samar―――"
-    },
-    {
-      "text": "Kenyataannya kalau 『Prix de l'Arc de Triomphe』 itu tantangan besar banget makin jelas,  
-dan kekalahan kali ini lebih nyakitin dari yang dia kira."
-    },
-    {
-      "text": "……Oke deh. Kalau gitu, kita ubah aja pendekatannya.  
-Fokus ke balapan domestik juga ada bagusnya.",
-      "name": "<username>"
-    },
-    {
-      "text": "Terus nanti kita amati baik-baik 『Prix de l'Arc de Triomphe』.  
-Anggap aja kesempatan buat lihat langsung panggung itu,  
-kan masih ada kesempatan lain nanti.",
-      "name": "<username>"
-    },
-    {
       "text": "……Iya.",
       "name": "Special Week"
     },
@@ -82,30 +44,12 @@ kan masih ada kesempatan lain nanti.",
       "text": "『Fufuu, syukurlah kedengerannya kamu baik-baik aja』",
       "name": "Grass Wonder"
     },
-    {
-      "text": "Grass, keren banget kamu di 『Takarazuka Kinen』!  
-Lurus terakhirnya bener-bener bikin merinding, mantap banget!",
-      "name": "El Condor Pasa"
-    },
-    {
-      "text": "Itu bener-bener ngasih kesan kuat, bikin aku nggak mau kalah sama kamu,  
-jadi nggak bisa diem aja!",
-      "name": "El Condor Pasa"
-    },
+
     {
       "text": "『Wah, aku terhormat kamu mikir gitu』",
       "name": "Grass Wonder"
     },
-    {
-      "text": "Spe-chan, El, sama yang lain juga,  
-karena kalian nunjukkin larinya, aku jadi bisa terus inget sama mimpiku.",
-      "name": "Grass Wonder"
-    },
-    {
-      "text": "Suatu saat, aku bakal balas budi ini.  
-Mimpiku――dengan nyempurnain lari dan berdiri di puncak.",
-      "name": "Grass Wonder"
-    },
+ 
     {
       "text": "『Woooow! Kayak biasa ya, semangat bertarungmu tetep menyala-nyala!』",
       "name": "El Condor Pasa"
@@ -114,11 +58,7 @@ Mimpiku――dengan nyempurnain lari dan berdiri di puncak.",
       "text": "……El juga, bentar lagi waktunya kamu nantangin yang terkuat.",
       "name": "Grass Wonder"
     },
-    {
-      "text": "『Prix de l'Arc de Triomphe』 tinggal 3 bulan lagi,  
-sampe saat itu aku bakal terus makin kuat!",
-      "name": "El Condor Pasa"
-    },
+  
     {
       "text": "Terus mimpiku――Aku bakal buktiin kalau aku emang yang terkuat di dunia!!",
       "name": "El Condor Pasa"
@@ -143,20 +83,12 @@ sampe saat itu aku bakal terus makin kuat!",
       "text": "Bueno! Hari ini hari biasa kan? Kalian harus belajar yang rajin!",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "Tenang aja! Aku bakal belajar cukup buat El-chan,  
-dan bikin balapan Jepang makin rame juga buat gantinya El!",
-      "name": "Tsurumaru Tsuyoshi"
-    },
+  
     {
       "text": "Punya temen sekelas yang nantang dunia tuh rasanya bikin bangga juga sih.",
       "name": "King Halo"
     },
-    {
-      "text": "Aku bakal tunggu kabar keberhasilanmu.  
-Aku juga bakal buktiin kalau prestasiku bisa nyampe ke Prancis!",
-      "name": "King Halo"
-    },
+   
     {
       "text": "Ehehe, aku bakal berusaha keras!",
       "name": "El Condor Pasa"
@@ -189,20 +121,12 @@ Aku juga bakal buktiin kalau prestasiku bisa nyampe ke Prancis!",
       "text": "Apaan iniii～～!?",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "Kayak yang kubilang, ini buat nyemangatin kamu～  
-Ayo, hadap depan dan fokus ya?",
-      "name": "Grass Wonder"
-    },
+  
     {
       "text": "Jadi gini caranya kita nganterin dia ya? Fufuu, menarik juga!",
       "name": "King Halo"
     },
-    {
-      "text": "Okeeee! Kita kasih semangat buat dia bareng-bareng!!  
-Uoooooooooh～～～～!",
-      "name": "Tsurumaru Tsuyoshi"
-    },
+   
     {
       "text": "Aku juga! Daaaaaaa～～!",
       "name": "Special Week"
@@ -227,20 +151,12 @@ Uoooooooooh～～～～!",
       "text": "……！",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "……El ini Uma Musume yang tujuannya jadi terkuat di dunia……!  
-Ragu-ragu tuh……!",
-      "name": "El Condor Pasa"
-    },
+  
     {
       "text": "Liat aja aku! Yaaaaaaa～～～～!!",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "……Aku tinggalin semua kekhawatiran di Jepang.  
-『Prix de l'Arc de Triomphe』, bakal kucoba dengan seluruh kekuatanku!",
-      "name": "El Condor Pasa"
-    },
+   
     {
       "text": "『Iya, pastiin kamu kasih pertunjukan yang hebat ya』",
       "name": "Grass Wonder"
@@ -253,25 +169,13 @@ Ragu-ragu tuh……!",
       "text": "Ehehe, iya!",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "Akhirnya, hari di mana Uma Musume Jepang, El Condor Pasa,  
-nantangin puncak dunia pun tiba.",
-      "name": "Penyiar"
-    },
-    {
-      "text": "Tentu aja dia dapet dukungan lewat siaran,  
-tapi di Prancis sendiri suara 2000 supporter terdengar nyorakin dia.",
-      "name": "Penyiar"
-    },
+  
     {
       "text": "…………",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "El Condor Pasa, apa dia bakal jadi yang pertama berhasil raih prestasi bersejarah  
-yang belum pernah dicapai Uma Musume Jepang lain?",
-      "name": "Penyiar"
-    },
+
+    
     {
       "text": "(……Mimpiku, buktiin kalau aku yang terkuat di dunia, di panggung ini……)",
       "name": "El Condor Pasa"
@@ -280,11 +184,7 @@ yang belum pernah dicapai Uma Musume Jepang lain?",
       "text": "Dan inilah, Uma Musume yang paling ditunggu-tunggu masuk ke paddock!",
       "name": "Penyiar"
     },
-    {
-      "text": "Dari 7 balapan, 6 kali menang dan sekali posisi 2!  
-Dijulukin Uma Musume terkuat Prancis, Montjeu, akhirnya muncul!",
-      "name": "Penyiar"
-    },
+  
     {
       "text": "……Fuu.",
       "name": "Montjeu"
@@ -293,11 +193,7 @@ Dijulukin Uma Musume terkuat Prancis, Montjeu, akhirnya muncul!",
       "text": "Montjeu……",
       "name": "El Condor Pasa"
     },
-    {
-      "text": "El Condor Pasa, aku tau betul prestasimu.  
-Dan setelah kampanye panjang, kamu juga dateng buat coba menang di sini.",
-      "name": "Montjeu"
-    },
+   
     {
       "text": "Kekuatan sejati Uma Musume Jepang, tunjukkin ke aku di sini.",
       "name": "Montjeu"
@@ -309,27 +205,7 @@ Dan setelah kampanye panjang, kamu juga dateng buat coba menang di sini.",
     {
       "text": "<Mari kita kasih balapan terbaik>",
       "name": "Montjeu"
-    },
-    {
-      "text": "Balapan paling bergengsi di dunia, 『Prix de l'Arc de Triomphe』……  
-lawan Uma Musume kelas dunia lain, dan juga yang terkuat di Prancis, Montjeu……",
-      "name": "El Condor Pasa"
-    },
-    {
-      "text": "Panggungnya udah siap. Aku udah usaha sekuat tenaga,  
-dan bakal keluarin semua kemampuanku, demi mimpiku――  
-jadi yang terkuat di dunia!",
-      "name": "El Condor Pasa"
-    },
-    {
-      "text": "Apa El Condor Pasa dari Jepang bakal jadi yang pertama ngalahin lawan-lawannya yang terkuat,  
-termasuk Montjeu, dan rebut kemenangan!?",
-      "name": "Penyiar"
-    },
-    {
-      "text": "Akhirnya, para Uma Musume keluar dari paddock  
-dan menuju ke panggung 『Prix de l'Arc de Triomphe』……!",
-      "name": "Penyiar"
     }
+  
   ]
 }

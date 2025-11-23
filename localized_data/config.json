@@ -12,7 +12,7 @@
     "plural_form": "n == 1 ? 0 : 1",
     "ordinal_form": "(((n+9)%10)<3 && ((n+90)%100)>10) ? ((n+9)%10) : 3",
     "ordinal_types": ["$st", "$nd", "$rd", "$th"],
-    "months": ["Jan.", "Feb.", "Mar.", "Apr.", "May.", "Jun.", "Jul.", "Aug.", "Sep.", "Oct.", "Nov.", "Dec."],
+    "months": ["Jan.", "Feb.", "Mar.", "Apr.", "Mei.", "Jun.", "Jul.", "Agt.", "Sep.", "Okt.", "Nov.", "Des."],
     "month_text_format": "$(half) $(month)",
 
     "text_wrapper": 1,
@@ -28,12 +28,12 @@
 
     "remove_ruby": true,
     "character_note_top_gallery_button": {
-        "text": "Career Event\n     Gallery",
+        "text": "     Galeri\n  Event Karir",
         "font_size": 38,
         "line_spacing": 0.6
     },
     "character_note_top_talk_gallery_button": {
-        "text": "     Chat\n   Gallery",
+        "text": "     Galeri\n   Chat",
         "font_size": 44,
         "line_spacing": 0.55
     },
