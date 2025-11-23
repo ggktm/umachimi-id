@@ -1,0 +1,250 @@
+{
+    "title": "Pandang Aku!",
+    "text_block_list": [
+        {
+            "choice_data_list": [
+                "Kenapa kamu disini?"
+            ],
+            "text": "<size=35>Beberapa hari kemudian, pada malam bulan purnama...\naku dipanggil oleh Still in Love. ――Ke tempat di mana aku\npertama kali bertemu dengannya. Kalau kupikir-pikir, hari itu\njuga adalah bulan purnama.</size>"
+        },
+        {
+            "name": "Still In Love",
+            "text": "Malam ini adalah purnama. Darah primordial yang ada pada\ndiriku, tidak mengenal tidur. Cahaya bulan itu membongkar darah \ntersebut... Mungkin karena itu?"
+        },
+        {
+            "name": "Still In Love",
+            "text": "Instingku menggeliat.... Aku tidak tahan lagi."
+        },
+        {
+            "text": "Sosok 'dia' di dalam Still in Love sudah mulai terbangun.\nSambil merasakan detak jantungku yang semakin cepat... aku \nmemberikan perintah, berusaha agar suaraku tidak bergetar.",
+            "choice_data_list": [
+                "Cobalah lari dulu.",
+                "Cobalah lari dulu."
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "Oke... Uhmm, aku ada permintaan."
+        },
+        {
+            "name": "Still In Love",
+            "text": "Ketika dia muncul...\nBisakah kamu mencoba menenangkan dia?",
+            "choice_data_list": [
+                "Eh...."
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "Kumohon jangan tanya alasannya dulu.\nBisakah kamu kabulkan?",
+            "choice_data_list": [
+                "Baiklah, aku akan mencobanya."
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "……――\nTerima kasih banyak."
+        },
+        {
+            "text": "Still In Love mulai berlari ketika disinari cahaya. Awalnya\nposturnya begitu anggun, tapi perlahan-lahan mulai melenceng."
+        },
+        {
+            "name": "Still In Love"
+        },
+        {
+            "name": "Still In Love",
+            "text": "Inilah waktunya..."
+        },
+        {
+            "name": "Still In Love",
+            "text": "Fufufu, AHAHAHA! YA! BEGINI! WAHAI BULAN,\nSINARILAH AKU LAGI! ACAK-ACAKLAH DIRIKU!"
+        },
+        {
+            "choice_data_list": [
+                "Still! Kau dengar aku? STILL!",
+                "Still! Kau dengar aku? STILL!"
+            ],
+            "text": "Instingnya menjadi tidak wajar dan menjadi sinting, seketika\naku tertegun akan sosoknya, tetapi aku sadar soal permintaannya\ndan berteriak."
+        },
+        {
+            "name": "Still In Love",
+            "text": "AHAHAHAHAHAHAHAHAHHA!!!!",
+            "choice_data_list": [
+                "Still!"
+            ]
+        },
+        {
+            "text": "(Aku dengar...Aku harus pergi...harus kembali..tapi...kemana?)",
+            "name": "Still In Love"
+        },
+        {
+            "name": "Bocil",
+            "text": "Ehh....Gak, ah! Gak mau lari sama Still-chan!\nSoalnya dia aneh..."
+        },
+        {
+            "name": "Orang Dewasa",
+            "text": "Anak itu, seperti orang yang berbeda.\nMenyeramkan."
+        },
+        {
+            "name": "Still Kecil",
+            "text": "Hiks...hikss...bukan...bukan.\nItu bukan aku...."
+        },
+        {
+            "text": "Mengerikan... Menakutkan... Gila... Menyeramkan... Aneh... \nAbnormal... ――Monster."
+        },
+        {
+            "name": "Still In Love",
+            "text": "(Tidak ada, di mana pun. Tempatku berada... karena kami...\naneh/tidak normal. Mengerikan... Orang yang akan mencintaiku,\ntidak ada, di mana pun... ――)",
+            "choice_data_list": [
+                "...LL, STILL IN LOVE!"
+            ]
+        },
+        {
+            "name": "Still In Love"
+        },
+        {
+            "text": "『Instingmu — begitu indah, sampai menakutkan』"
+        },
+        {
+            "text": "『Instingmu — begitu indah, sampai menakutkan』"
+        },
+        {
+            "text": "(...Hanya orang itu. Hanya orang itu yang... mengakuiku.\nYang menerima 'diriku'...)",
+            "name": "Still In Love"
+        },
+        {
+            "name": "Still In Love",
+            "text": "(Bahkan diriku pun... bisakah aku dicintai? Bolehkah aku\nmencintai? Bolehkah aku percaya...?)"
+        },
+        {
+            "name": "Still In Love",
+            "text": "(...Aku harus pergi! Ke sisi dia...! Karena, karena...\nKau adalah... milikku... ――)"
+        },
+        {
+            "name": "Still In Love!",
+            "text": "...uh!\nTrainer-san!",
+            "choice_data_list": [
+                "Still!"
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "Ya...! Still...\nMasih ada disini, kok――"
+        },
+        {
+            "text": "Aku bergegas menghampirinya yang telah berhenti.\nAkhirnya dia kembali normal, dan bisa sadar dengan sendirinya.",
+            "choice_data_list": [
+                "Akhirnya, Still...!",
+                "Akhirnya, Still...!"
+            ]
+        },
+        {
+            "name": "Still In Love"
+        },
+        {
+            "name": "Still In Love",
+            "text": "Cinta, kan?",
+            "choice_data_list": [
+                "Eh――"
+            ]
+        },
+        {
+            "text": "Cinta, kan?Cinta, kan?Cinta, kan?Cinta, kan?Cinta, kan?\nCinta, kan?Cinta, kan?Cinta, kan?Cinta, kan?Cinta, kan?\nCinta, kan?Cinta, kan?Cinta, kan?Cinta, kan?Cinta, kan?",
+            "name": "Still In Love"
+        },
+        {
+            "name": "Still In Love",
+            "text": "Soalnya kamu...adalah belahan jiwaku."
+        },
+        {
+            "text": "Bahu ku dicengkram dengan kuat. Disaat \"dia\" mulai menyeringai\nlebar, tiba-tiba dia mulai ambruk."
+        },
+        {
+            "name": "Still In Love",
+            "text": "…………。\n……？　Loh……。",
+            "choice_data_list": [
+                "Still...! Syukurlah, kau sudah sadar..."
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "Heh....?\n..... Kyaaa!!"
+        },
+        {
+            "name": "Still In Love",
+            "text": "M-Maafkan aku...! Sampai-sampai\naku berada di pelukanmu, Trainer-san!",
+            "choice_data_list": [
+                "Tidak apa, kamu baik-baik saja?",
+                "Tidak apa, kamu baik-baik saja?"
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "\"......Ah...... Ya, ya...... Aku... berhasil kembali\nsepenuhnya dari dia yang sempat terbangun itu, ya."
+        },
+        {
+            "name": "Still In Love",
+            "text": "Tapi, mungkin karena dipaksa, aku jadi lelah.\nLalu pingsan lagi dan dia yang mengambil alih.",
+            "choice_data_list": [
+                "Bisa mengendalikannya saja sudah hebat.",
+                "Bisa mengendalikannya saja sudah hebat."
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "Ya. Ini yang pertama kalinya..."
+        },
+        {
+            "name": "Still In Love",
+            "text": ".....Anu, walau sudah terjadi hal buruk..."
+        },
+        {
+            "name": "Still In Love",
+            "text": "Jika Trainer-san tidak terganggu, maukah kamu\nberjalan denganku di masa depan?",
+            "choice_data_list": [
+                "Itu...!"
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "Ya. Kumohon t-tandatangani kontrak pelatihan denganku."
+        },
+        {
+            "name": "Still In Love",
+            "text": "Aku akan baik-baik saja jika bersamamu.\nAku akan berusaha tidak merepotkanmu, jadi...!"
+        },
+        {
+            "name": "Still In Love",
+            "text": "Tidak, harus dirimu. Aku mohon!\nTolong...tolong, izinkan aku berada di sisimu!"
+        },
+        {
+            "text": "Sosoknya yang menunduk dengan cemas itu, terlihat sangat tak \nberdaya... Aku ingin segera mengulurkan tangan, namun... ujung\njariku ragu.",
+            "choice_data_list": [
+                "(Apa bisa aku menopang dia?)",
+                "(Apa bisa aku menopang dia?)"
+            ]
+        },
+        {
+            "text": "Namun, keraguan itu tertutupi oleh kabut merah. Sejak tersesat\nke dunia iblis pada malam musim panas itu — aku sudah tahu\nbahwa tidak ada jalan untuk kembali.",
+            "choice_data_list": [
+                "Ya, ayo melangkah bersama.",
+                "Ya, ayo melangkah bersama."
+            ]
+        },
+        {
+            "name": "Still In Love",
+            "text": "............Terima kasih banyak. Meskipun aku tidak sempurna,\nmohon... bimbingannya."
+        },
+        {
+            "text": "Malam itu aku sulit tidur. Udara panas menempel di kulit, aku\nsulit bernapas. Ditambah gatal tak tertahankan di bekas luka\nleher dan sakit kepala berat."
+        },
+        {},
+        {
+            "text": "Akhir dari kisah ini sudah ditetapkan. Terus, mengapa harus\ndilalui? ...Kata-katanya mulai terurai, dan aku larut dalam\nketidaksadaran. Sebelum aku tenggelam lagi, aku melihat—"
+        },
+        {
+            "text": "――Aku Masih Mencintaimu (Still In Love)."
+        }
+    ]
+
+}
+
