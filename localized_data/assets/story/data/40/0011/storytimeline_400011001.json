@@ -26,6 +26,37 @@
                 "Tentang \" Latihan Di Pulau \"",
                 "Udah Gitu Aja"
             ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Ya , jadi itu Tentang Proyek Pulau Terpencil ini"
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Proyek Pulau Terpencil itu sebuah proyek buat bangun fasilitas latihan di pulau yang tidak jauh dari akademi . ya..biar para murid ga bosan ."
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Proyek ini terdiri dari 5 Pertemuan Evaluasi , biasanya untuk nge-check progress dan perkembangan pembangunan di pulaumu ",
+            "color_text_info_list": [
+                "5 Pertemuan",
+                "pembangunan"
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Setiap konstruksi , biasanya akan mendapat Pt. Dev dalam setiap latihan yang dilakukan sampai pertemuan berikutnya",
+            "color_text_info_list": [
+                " Pt. Dev",
+                "setiap latihan "
+            ]
+        },
+        {
+            "name": "Tazuna Hayakawa",
+            "text": "Jika progress plan konstruksi kamu berjalan lancar dalam setiap pertemuan , kamu dapat nilai tinggi dan berpengaruh pada latihanmu ",
+            "color_text_info_list": [
+                "berjalan lancar"
+            ]
         }
     ]
 }
