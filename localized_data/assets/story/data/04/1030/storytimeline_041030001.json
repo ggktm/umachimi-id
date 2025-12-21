@@ -97,9 +97,9 @@
       "text": "Maaf… t-tapi semuanya pasti lebih baik kalau\naku nggak ada! Jadi permisi…!"
     },
     {
-      "text": "Belum sempat aku menjawab, Rice lari menjauh ke kegelapan…\nDia terlihat sangat tertekan hingga membuatku tak tega membiarkannya.",
+      "text": "Belum sempat aku menjawab, Rice lari menjauh ke \nkegelapan… Dia terlihat sangat tertekan hingga\nmembuatku tak tega membiarkannya.",
       "choice_data_list": [
-        "(Aku harus bilang ke dia bahwa dia terlalu mikir buruk!)"
+        "<size=33>(Aku harus bilang bahwa dia hanya overthinking!)</size>"
       ]
     },
     {
@@ -111,18 +111,18 @@
     },
     {
       "name": "Rice Shower",
-      "text": "<i>……</i> <i>Aah.</i> Semoga orang itu baik-baik saja. Sudah malam begini."
+      "text": "<i>……</i> <i>Aah.</i> Semoga orang itu baik-baik\nsaja. Sudah malam begini."
     },
     {
       "name": "Rice Shower",
-      "text": "Bagaimana kalau mereka lapar…? Atau melewatkan acara favorit…? Aah… bagaimana ini……"
+      "text": "Bagaimana kalau mereka lapar…? Atau melewatkan acara \nfavorit…? Aah… bagaimana ini……"
     },
     {
       "name": "Rice Shower",
       "text": "<i>Hah…</i> Aku memang cuma pembawa sial……"
     },
     {
-      "text": "… Dia tampaknya tipe yang menanggung semua beban seorang diri. Lalu, sebelum aku bisa menyapanya ——"
+      "text": "… Dia tampaknya tipe yang menanggung semua beban \nseorang diri. Lalu, sebelum aku bisa menyapanya ——"
     },
     {
       "name": "Rice Shower",
@@ -130,55 +130,55 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Karena aku sudah memutuskan ikut Seleksi! Aku harus hadir, berlari baik, dan lalu……"
+      "text": "Karena aku sudah memutuskan ikut Seleksi! Aku\nharus hadir, berlari baik, dan lalu……"
     },
     {
       "name": "Rice Shower",
-      "text": "Aku akan debut, ikut banyak balapan… Aku tak akan jadi si pembawa sial lagi…!"
+      "text": "Aku akan debut, ikut banyak balapan…\nAku tak akan jadi si pembawa sial lagi…!"
     },
     {
       "name": "Rice Shower",
-      "text": "Benar… itu dia! Aku harus latihan lagi! Kamu bisa, Rice! Kamu bisa——"
+      "text": "Benar… itu dia! Aku harus latihan lagi!\nKamu bisa, Rice! Kamu bisa——"
     },
     {
       "name": "Rice Shower",
       "text": "—— Iya!!"
     },
     {
-      "text": "Semangatnya begitu besar hingga aku tak ingin mengganggu. Pada akhirnya, aku pergi diam-diam tanpa memanggilnya…"
+      "text": "Semangatnya begitu besar hingga aku tak ingin mengganggu.\nPada akhirnya, aku pergi diam-diam tanpa memanggilnya…"
     },
     {
       "text": "Rice Shower… aku menantikan hasil tekadmu di Seleksi."
     },
     {
-      "text": "Hari Seleksi akhirnya tiba. Venue dipenuhi Uma Musume yang berharap menarik perhatian para pelatih."
+      "text": "Hari Seleksi akhirnya tiba. Venue dipenuhi Uma Musume \nyang berharap menarik perhatian para pelatih."
     },
     {
       "text": "Namun ——"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Nona Rice! Rice! Rice! Rice! <b>Kamu di mana, Rice?!!</b>"
+      "text": "Rice-san! Rice! Rice! Rice! <b>Kamu di mana, Rice?!!</b>"
     },
     {
       "name": "Sakura Bakushin O",
-      "text": "Ketua kelasmu datang memberi tahu bahwa balapanmu segera dimulai!"
+      "text": "Ketua kelasmu datang memberi tahu bahwa\nbalapanmu segera dimulai!"
     },
     {
-      "name": "Selection Race Official A",
-      "text": "Ngomong-ngomong, Sakura Bakushin O, grupmu setelah ini, kan? Silakan bersiap!"
+      "name": "Staf Balapan Seleksi A",
+      "text": "Ngomong-ngomong, Sakura Bakushin O,\ngrupmu setelah ini, kan? Silakan bersiap!"
     },
     {
       "name": "Sakura Bakushin O",
       "text": "<i>Gyaah!?</i>"
     },
     {
-      "name": "Veteran Trainer A",
-      "text": "… Jadi Rice Shower akhirnya memboikot Seleksi, ya? Padahal dia punya bakat bagus."
+      "name": "Trainer A",
+      "text": "… Jadi Rice Shower akhirnya memboikot\nSeleksi, ya? Padahal dia punya bakat bagus."
     },
     {
-      "name": "Experienced Trainer A",
-      "text": "Sepertinya dia memang tidak ingin ikut balapan… masalahnya lebih dari sekadar bakat."
+      "name": "Trainer Berpengalaman A",
+      "text": "Sepertinya dia memang tidak ingin ikut balapan…\nmasalahnya lebih dari sekadar bakat."
     },
     {
       "text": "Akhirnya, Rice Shower tidak muncul di Seleksi…"
@@ -192,14 +192,14 @@
     },
     {
       "name": "Rice Shower",
-      "text": "Bodoh! Bodoh! Aku bodoh! Padahal aku sudah bertekad memberi yang terbaik!"
+      "text": "Bodoh! Bodoh! Aku bodoh! Padahal aku\nsudah bertekad memberi yang terbaik!"
     },
     {
       "name": "Rice Shower",
       "text": "Kenapa? Kenapa aku harus jadi si pembawa sial…?"
     },
     {
-      "text": "Tangisan sedih Rice menggema di malam yang sunyi, membuatku mendekatinya…",
+      "text": "Tangisan sedih Rice menggema di malam yang \nsunyi, membuatku mendekatinya…",
       "choice_data_list": [
         "…… Kamu nggak apa-apa?",
         "…… Kamu nggak apa-apa?"
