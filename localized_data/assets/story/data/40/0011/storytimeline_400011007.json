@@ -1,0 +1,63 @@
+{
+    "text_block_list": [
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Eh, hari ini hari evaluasi… ya?"
+        },
+        {
+            "name": "Gold City",
+            "text": "Oh iya, ternyata sudah waktunya ya."
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Evaluasi Tracen Island pertama… kupikir yang datang cuma beberapa orang, ternyata lumayan banyak ya"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Ada petinggi URA, eksekutif perusahaan olahraga besar, sampai presiden perusahaan konstruksi…"
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Isinya orang dewasa semua yang rapi pakai setelan jas—aku sampai kaget."
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Begitu melihat Ketua Akikawa, aku jadi sedikit lega.",
+            "color_text_info_list": [
+                "Ketua Akikawa"
+            ]
+        },
+        {
+            "name": "Gold City",
+            "text": "\"Oh begitu. Ketua Akikawa juga ikut membantu sedikit, ya?\""
+        },
+        {
+            "name": "Gold City",
+            "text": "\"Maksudku, bukan cuma Ketua Akikawa sih—Tucker itu koneksinya kuat banget, ya.\""
+        },
+        {
+            "name": "Sakura Chiyono O",
+            "text": "Iya ya… bisa kenal dengan para petinggi begitu."
+        },
+        {
+            "name": "Gold City",
+            "text": "…Sebenarnya, dia itu orang seperti apa sih?"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "Oh! Ketemu kalian!"
+        },
+        {
+            "name": "Tucker Brian",
+            "text": "\"Sebentar lagi evaluasi dimulai! Kumpul semua di ruang rapat!\""
+        },
+        {
+            "name": "Parsitipan Uma",
+            "text": "Yaa!!"
+        },
+        {
+            "name": "Monolog",
+            "text": "Dan begitulah, Evaluasi Tracen Island ke-2 pun dimulai!"
+        }
+    ]
+}
