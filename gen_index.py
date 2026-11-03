@@ -3,6 +3,7 @@ from pathlib import Path
 import json
 from blake3 import blake3
 
+
 def ls_tree(tree: pygit2.Tree, parent=Path(""), skip_trees=False):
     for e in tree:
         path = parent / e.name
@@ -12,6 +13,7 @@ def ls_tree(tree: pygit2.Tree, parent=Path(""), skip_trees=False):
             yield from ls_tree(e, path, skip_trees)
         else:
             yield path
+
 
 def main():
     with open("index_base.json") as f:
@@ -28,8 +30,7 @@ def main():
             break
 
     if not ld_tree:
-        print("[Error] localized_data tree not found")
-        return
+        raise SystemExit("[Error] localized_data tree not found")
 
     hasher = blake3(max_threads=blake3.AUTO)
     for path in ls_tree(ld_tree, skip_trees=True):
@@ -51,5 +52,6 @@ def main():
 
     with open("index.json", "w", encoding="utf-8", newline='\n') as f:
         json.dump(index, f, ensure_ascii=False, indent=2)
+
 
 main()
